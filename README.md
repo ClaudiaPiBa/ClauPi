@@ -1,2 +1,2 @@
 # ClauPi![LinkedIn cover - 1](https://user-images.githubusercontent.com/86315221/145611835-90f78cdb-fe28-465f-8ebc-3c072c713b1d.jpg)
-!Hola mundo, soy Claudia Piñas!
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a Front End Developer </samp></h4>
